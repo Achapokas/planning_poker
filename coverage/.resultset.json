@@ -1,7 +1,27 @@
 {
   "RSpec": {
     "coverage": {
+      "/sites/planning_poker/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/sites/planning_poker/app/controllers/info_controller.rb": [
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/sites/planning_poker/app/controllers/application_controller.rb": [
+        1,
+        null,
+        null,
+        1,
+        null
+      ]
     },
-    "timestamp": 1378933685
+    "timestamp": 1378934727
   }
 }
